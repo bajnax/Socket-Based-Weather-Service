@@ -1,0 +1,12 @@
+c:\users\vtkinju\documents\visual studio 2013\Projects\MySocketServerApp\MySocketServerApp\bin\Debug\MySocketServerApp.exe.config
+c:\users\vtkinju\documents\visual studio 2013\Projects\MySocketServerApp\MySocketServerApp\bin\Debug\MySocketServerApp.exe
+c:\users\vtkinju\documents\visual studio 2013\Projects\MySocketServerApp\MySocketServerApp\bin\Debug\MySocketServerApp.pdb
+c:\users\vtkinju\documents\visual studio 2013\Projects\MySocketServerApp\MySocketServerApp\obj\Debug\MySocketServerApp.csprojResolveAssemblyReference.cache
+c:\users\vtkinju\documents\visual studio 2013\Projects\MySocketServerApp\MySocketServerApp\obj\Debug\MySocketServerApp.exe
+c:\users\vtkinju\documents\visual studio 2013\Projects\MySocketServerApp\MySocketServerApp\obj\Debug\MySocketServerApp.pdb
+C:\Users\Дима\Desktop\C#\WeatherApplication\MySocketServerApp\MySocketServerApp\bin\Debug\MySocketServerApp.exe.config
+C:\Users\Дима\Desktop\C#\WeatherApplication\MySocketServerApp\MySocketServerApp\bin\Debug\MySocketServerApp.exe
+C:\Users\Дима\Desktop\C#\WeatherApplication\MySocketServerApp\MySocketServerApp\bin\Debug\MySocketServerApp.pdb
+C:\Users\Дима\Desktop\C#\WeatherApplication\MySocketServerApp\MySocketServerApp\obj\Debug\MySocketServerApp.exe
+C:\Users\Дима\Desktop\C#\WeatherApplication\MySocketServerApp\MySocketServerApp\obj\Debug\MySocketServerApp.pdb
+C:\Users\Дима\Desktop\C#\WeatherApplication\MySocketServerApp\MySocketServerApp\obj\Debug\MySocketServerApp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,17 @@
+c:\users\vtkinju\documents\visual studio 2013\Projects\MyClientSocketApp\MyClientSocketApp\bin\Debug\MyClientSocketApp.exe.config
+c:\users\vtkinju\documents\visual studio 2013\Projects\MyClientSocketApp\MyClientSocketApp\bin\Debug\MyClientSocketApp.exe
+c:\users\vtkinju\documents\visual studio 2013\Projects\MyClientSocketApp\MyClientSocketApp\bin\Debug\MyClientSocketApp.pdb
+c:\users\vtkinju\documents\visual studio 2013\Projects\MyClientSocketApp\MyClientSocketApp\obj\Debug\MyClientSocketApp.csprojResolveAssemblyReference.cache
+c:\users\vtkinju\documents\visual studio 2013\Projects\MyClientSocketApp\MyClientSocketApp\obj\Debug\MyClientSocketApp.Form1.resources
+c:\users\vtkinju\documents\visual studio 2013\Projects\MyClientSocketApp\MyClientSocketApp\obj\Debug\MyClientSocketApp.Properties.Resources.resources
+c:\users\vtkinju\documents\visual studio 2013\Projects\MyClientSocketApp\MyClientSocketApp\obj\Debug\MyClientSocketApp.csproj.GenerateResource.Cache
+c:\users\vtkinju\documents\visual studio 2013\Projects\MyClientSocketApp\MyClientSocketApp\obj\Debug\MyClientSocketApp.exe
+c:\users\vtkinju\documents\visual studio 2013\Projects\MyClientSocketApp\MyClientSocketApp\obj\Debug\MyClientSocketApp.pdb
+C:\Users\Дима\Desktop\C#\WeatherApplication\MyClientSocketApp\MyClientSocketApp\bin\Debug\MyClientSocketApp.exe.config
+C:\Users\Дима\Desktop\C#\WeatherApplication\MyClientSocketApp\MyClientSocketApp\bin\Debug\MyClientSocketApp.exe
+C:\Users\Дима\Desktop\C#\WeatherApplication\MyClientSocketApp\MyClientSocketApp\bin\Debug\MyClientSocketApp.pdb
+C:\Users\Дима\Desktop\C#\WeatherApplication\MyClientSocketApp\MyClientSocketApp\obj\Debug\MyClientSocketApp.Form1.resources
+C:\Users\Дима\Desktop\C#\WeatherApplication\MyClientSocketApp\MyClientSocketApp\obj\Debug\MyClientSocketApp.Properties.Resources.resources
+C:\Users\Дима\Desktop\C#\WeatherApplication\MyClientSocketApp\MyClientSocketApp\obj\Debug\MyClientSocketApp.csproj.GenerateResource.Cache
+C:\Users\Дима\Desktop\C#\WeatherApplication\MyClientSocketApp\MyClientSocketApp\obj\Debug\MyClientSocketApp.exe
+C:\Users\Дима\Desktop\C#\WeatherApplication\MyClientSocketApp\MyClientSocketApp\obj\Debug\MyClientSocketApp.pdb
